@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/holberton
+makdir -p welcome/to/holberton
